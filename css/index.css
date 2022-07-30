@@ -11,7 +11,7 @@
 /* 浏览器背景 */
 body,
 html {
-    background: url(https://ayun-8gwby35b35a57cef-1305269471.tcloudbaseapp.com/website/personalwebsite/images/Piano.jpg) no-repeat;
+    background: url(../images/Piano.jpg) no-repeat;
     background-size: 100% 100%;
     background-attachment: fixed;
 }
